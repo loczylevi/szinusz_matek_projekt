@@ -1,0 +1,1 @@
+# szinusz_matek_projekt
